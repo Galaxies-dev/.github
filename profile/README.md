@@ -1,12 +1,10 @@
-## Hi there 👋
+## Welcome to Galaxies.dev 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**This organization holds all the React Native courses & code for the [galaxies.dev](https://galaxies.dev/) courses!**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🙋‍♀️ I'm [Simon Grimm](https://twitter.com/schlimmson), creator of Galaxies
+- 🍿 Check out my [free tutorials on YouTube](https://www.youtube.com/@galaxies_dev)
+- 🎧 Tune in to the [Rocket Ship Podcas5](https://podcast.galaxies.dev/)
+
+
